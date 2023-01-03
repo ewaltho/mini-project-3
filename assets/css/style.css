@@ -1,0 +1,30 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background: rgb(192, 223, 233);
+    box-sizing: border-box;
+}
+
+header {
+    text-align: center;
+    color: rgb(50, 15, 41);
+    border-bottom: 5px solid rgb(145, 130, 212) ;
+    padding: 25px;
+}
+
+.start {
+    font-size: 25px;
+    background: rgb(41, 27, 99);
+    border-radius: 15px;
+    color: white;
+}
+
+.start:hover {
+    background-color: rgb(88, 88, 240);
+}
+
+.timer {
+    text-align: center;
+}
